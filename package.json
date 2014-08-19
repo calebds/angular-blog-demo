@@ -1,0 +1,11 @@
+{
+  "name": "angular-blog-demo",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Caleb Sotelo <caleb.sotelo@gmail.com>",
+  "dependencies": {
+    "body-parser": "^1.5.2",
+    "express": "^4.7.2",
+    "method-override": "^2.1.2"
+  }
+}
